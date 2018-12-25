@@ -1,0 +1,24 @@
+untuk panel admin web https://www.000webhost.com/
+
+DB = di folder assets dengan nama database rental_mobil
+
+https://www.000webhost.com/ 
+email wisnukristanto123@gmail.com
+password : bismillah123
+
+https://files.000webhost.com/
+username : fiesto-car
+password : bismillah321
+
+database 
+Nama DB : id8228654_rental
+DB USER : id8228654_rental
+DB HOST : localhost
+password: Admin
+
+
+alfibagus130@gmail.com
+member
+
+alfiras@gmail.com 
+supir
